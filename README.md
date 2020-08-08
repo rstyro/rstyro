@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎访问我的GitHub 👋
 
 <!--
 **rstyro/rstyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
