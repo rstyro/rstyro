@@ -1,4 +1,4 @@
-<h2 align="center">欢迎访问我的GitHub 👋👋👋</h2>
+<h2 align="center">欢迎访问我的GitHub 👏👏👏</h2>
 <p align="center">
   <a href="https://github.com/rstyro"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
   <a href="https://gitee.com/rstyro"><img src="https://img.shields.io/badge/Gitee-ff0000" alt="gitee"></a>
