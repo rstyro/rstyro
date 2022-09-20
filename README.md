@@ -12,7 +12,7 @@ View：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="http://rstyro.gitee.io/blog/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F74D18&lines=%E5%8F%88%E6%98%AF%E6%96%B0%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%8C%E5%8A%A0%E6%B2%B9(%E0%B8%87+%E2%80%A2_%E2%80%A2)%E0%B8%87%E5%93%A6+%EF%BC%81&center=true&size=23">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F74D18&lines=别把你的小朋友弄丢了，别人捡到是不会还的。;年轻的时候，梦想在远方。在远方的时候，梦想在家乡&center=true&size=23&width=1000">
   </a>
 </h1>
 
