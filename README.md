@@ -17,7 +17,7 @@ View：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页
 </h1>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/rstyro/rstyro/blob/master/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/rstyro/rstyro/output/github-contribution-grid-snake.svg" /></div>
 
 
 <!-- GitHub数据统计 -->
