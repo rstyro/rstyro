@@ -16,10 +16,15 @@ View：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页
   </a>
 </h1>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/rstyro/rstyro/output/github-contribution-grid-snake.svg" /></div>
+<!-- 连续提交代码的次数 文档：https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!--
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rstyro" /></div>
+-->
+<br/>
 
-
+<!-- 奖杯 地址：https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rstyro&row=1&theme=juicyfresh" /> </div>
+<br/>
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rstyro&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
@@ -27,6 +32,9 @@ View：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页
 </div>
 <br>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://raw.githubusercontent.com/rstyro/rstyro/output/github-contribution-grid-snake.svg" /></div>
+<br/>
 
 <!--
 **rstyro/rstyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
