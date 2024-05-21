@@ -1,12 +1,12 @@
 <h2 align="center">欢迎访问我的GitHub 👏👏👏</h2>
 <p align="center">
-  <a href="https://github.com/rstyro"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-  <a href="https://gitee.com/rstyro"><img src="https://img.shields.io/badge/Gitee-ff0000" alt="gitee"></a>
-  <a href="https://www.jianshu.com/u/651c15a1758a"><img src="https://img.shields.io/badge/简书-F95204" alt="简书"></a>
-  <a href="https://blog.csdn.net/qq_32923745"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
+  <a href="https://github.com/rstyro"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a> 
+  <a href="https://gitee.com/rstyro"><img src="https://img.shields.io/badge/Gitee-ff0000" alt="gitee"></a> 
+  <a href="https://www.jianshu.com/u/651c15a1758a"><img src="https://img.shields.io/badge/简书-F95204" alt="简书"></a> 
+  <a href="https://blog.csdn.net/qq_32923745"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a> 
 </p>
 <div align="center">
-View：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页访问量">
+主页访问量：<img src="https://profile-counter.glitch.me/rstyro/count.svg" alt="主页访问量">
 </div>
 
 <!-- 动态打字效果 -->
